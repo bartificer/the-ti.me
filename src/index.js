@@ -13,6 +13,9 @@ import { DateTime } from 'luxon'
 // import forked version of is.js
 import is from 'is-it-check';
 
+// import font awesome
+import '@fortawesome/fontawesome-free/js/all.min.js'
+
 // do something
 console.log('hello world?', typeof BS);
 
