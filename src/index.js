@@ -16,6 +16,9 @@ import is from 'is-it-check';
 // import font awesome
 import '@fortawesome/fontawesome-free/js/all.min.js'
 
+// import custom web font
+import "@fontsource/share-tech-mono"
+
 // do something
 console.log('hello world?', typeof BS);
 
